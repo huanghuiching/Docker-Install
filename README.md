@@ -1,6 +1,6 @@
 # Docker-Install
 ## Linux CentOS version
-## 下載說明請參考網頁 https://docs.docker.com/install/linux/docker-ce/centos/#install-using-the-convenience-script
+#### Docker Official Installation: https://docs.docker.com/install/linux/docker-ce/centos/#install-using-the-convenience-script
 
 步驟1. 從get.docker.com網址處爬取安裝程式並執行
 > curl -fsSL https://get.docker.com/ | sh
