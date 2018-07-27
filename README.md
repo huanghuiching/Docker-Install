@@ -27,9 +27,12 @@
 #### 步驟4. 啟用程式
 
 ##### 設定自動啟用(若要取消此功能請執行disable那行程式)
+##### 如果沒有systemctl功能的系統可用 $ sudo chkconfig docker on 完成設定
 > sudo systemctl enable docker
 
 > sudo systemctl disable docker
+
+
 
 ##### 手動啟用(大部分linux系統支援systemctl語法，如果不成功，請嘗試改用service)
 > sudo systemctl start docker
