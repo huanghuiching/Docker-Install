@@ -40,6 +40,6 @@
 
 
 **TO BE CONTINUED...**
-1. docker basic command
-2. the base of image--dockerfile example
-3. docker compose example
+# docker basic command
+# the base of image--dockerfile example
+# docker compose example
