@@ -37,9 +37,11 @@
 
 > $ sudo service docker start
 
-
-
-**TO BE CONTINUED...**
 # docker basic command
+- https://docs.docker.com/v17.09/edge/engine/reference/commandline/docker/
+
 # the base of image--dockerfile example
+- https://docs.docker.com/v17.09/engine/reference/builder/
+
 # docker compose example
+- https://docs.docker.com/v17.09/compose/compose-file/
